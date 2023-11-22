@@ -1,5 +1,5 @@
 ### Olá, tudo bem? 😉
-#### Eu sou Italo Araujo, Desenvolvedor Web 👩🏻‍💻 formado em Engenharia Química 👨‍🔬 e atualmente em formação pela escola de tecnologia Trybe 💻 me apronfundando em Front e Back-End. 
+#### Eu sou Italo Araujo, Desenvolvedor Web formado em Engenharia Química e atualmente em formação pela escola de tecnologia Trybe me apronfundando em Front e Back-End. 
 
 [![Envie-me um e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italojsouza@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-jean-araujo-de-souza/)
 
