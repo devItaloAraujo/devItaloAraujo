@@ -32,3 +32,10 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/MOCHA-6D4A31?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-974942?style=for-the-badge&logo=chai&logoColor=white)
+
+<div>
+  <br>
+  <a href="https://github.com/devItaloAraujo">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devItaloAraujo&layout=compact&theme=dracula"/>
+  </a>
+</div>
