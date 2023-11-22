@@ -1,8 +1,6 @@
 ### Olá, tudo bem? 😉
 #### Eu sou Italo Araujo, Desenvolvedor Web formado em Engenharia Química e atualmente em formação pela escola de tecnologia Trybe me apronfundando em Front e Back-End. 
 
-[![Envie-me um e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italojsouza@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-jean-araujo-de-souza/)
-
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,3 +37,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devItaloAraujo&layout=compact&theme=dracula"/>
   </a>
 </div>
+
+### Entre em contato:
+
+[![Envie-me um e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italojsouza@gmail.com)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-jean-araujo-de-souza/)
