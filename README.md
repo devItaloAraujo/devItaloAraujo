@@ -1,9 +1,10 @@
 ### Olá, tudo bem? 😉
-#### Eu sou Italo Araujo, Desenvolvedor Web formado em Engenharia Química e atualmente em formação pela escola de tecnologia Trybe me apronfundando em Front e Back-End. 
+####  Me chamo Ítalo Araújo e sou Desenvolvedor Web Full Stack certificado pela escola de tecnologia Trybe, sempre fui apaixonado por tecnologia e me formei em engenharia química pela PUC-MG, fazendo intercâmbio nos USA nesse período. Também nessa graduação me identifiquei com o desenvolvimento de código, assim fiz a transição de carreira e agora me dedico totalmente a essa área. 
 
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white).
 ![image](https://github.com/devItaloAraujo/devItaloAraujo/assets/45125829/69fb7a86-3f4e-4ad8-a7ce-da16b3fcf0bf)
 
 
@@ -17,6 +18,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white).
 
 ### Database & ORM
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
